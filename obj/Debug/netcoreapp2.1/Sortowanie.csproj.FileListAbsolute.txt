@@ -1,0 +1,77 @@
+C:\Users\Igoras\Desktop\Projekt PAMSI\Sortowanie\bin\Debug\netcoreapp2.1\Sortowanie.deps.json
+C:\Users\Igoras\Desktop\Projekt PAMSI\Sortowanie\bin\Debug\netcoreapp2.1\Sortowanie.runtimeconfig.json
+C:\Users\Igoras\Desktop\Projekt PAMSI\Sortowanie\bin\Debug\netcoreapp2.1\Sortowanie.runtimeconfig.dev.json
+c:\Users\Igoras\Desktop\Projekt PAMSI\Sortowanie\bin\Debug\netcoreapp2.1\Sortowanie.dll
+c:\Users\Igoras\Desktop\Projekt PAMSI\Sortowanie\bin\Debug\netcoreapp2.1\Sortowanie.pdb
+c:\Users\Igoras\Desktop\Projekt PAMSI\Sortowanie\obj\Debug\netcoreapp2.1\Sortowanie.csprojAssemblyReference.cache
+c:\Users\Igoras\Desktop\Projekt PAMSI\Sortowanie\obj\Debug\netcoreapp2.1\Sortowanie.csproj.CoreCompileInputs.cache
+c:\Users\Igoras\Desktop\Projekt PAMSI\Sortowanie\obj\Debug\netcoreapp2.1\Sortowanie.AssemblyInfoInputs.cache
+c:\Users\Igoras\Desktop\Projekt PAMSI\Sortowanie\obj\Debug\netcoreapp2.1\Sortowanie.AssemblyInfo.cs
+c:\Users\Igoras\Desktop\Projekt PAMSI\Sortowanie\obj\Debug\netcoreapp2.1\Sortowanie.dll
+c:\Users\Igoras\Desktop\Projekt PAMSI\Sortowanie\obj\Debug\netcoreapp2.1\Sortowanie.pdb
+C:\Users\lisem\Documents\niew4rto\bin\Debug\netcoreapp2.1\Sortowanie.deps.json
+C:\Users\lisem\Documents\niew4rto\bin\Debug\netcoreapp2.1\Sortowanie.runtimeconfig.json
+C:\Users\lisem\Documents\niew4rto\bin\Debug\netcoreapp2.1\Sortowanie.runtimeconfig.dev.json
+C:\Users\lisem\Documents\niew4rto\bin\Debug\netcoreapp2.1\Sortowanie.dll
+C:\Users\lisem\Documents\niew4rto\bin\Debug\netcoreapp2.1\Sortowanie.pdb
+C:\Users\lisem\Documents\niew4rto\obj\Debug\netcoreapp2.1\Sortowanie.csprojAssemblyReference.cache
+C:\Users\lisem\Documents\niew4rto\obj\Debug\netcoreapp2.1\Sortowanie.csproj.CoreCompileInputs.cache
+C:\Users\lisem\Documents\niew4rto\obj\Debug\netcoreapp2.1\Sortowanie.AssemblyInfoInputs.cache
+C:\Users\lisem\Documents\niew4rto\obj\Debug\netcoreapp2.1\Sortowanie.AssemblyInfo.cs
+C:\Users\lisem\Documents\niew4rto\obj\Debug\netcoreapp2.1\Sortowanie.dll
+C:\Users\lisem\Documents\niew4rto\obj\Debug\netcoreapp2.1\Sortowanie.pdb
+C:\Users\lisem\Desktop\niew4rto\bin\Debug\netcoreapp2.1\Sortowanie.deps.json
+C:\Users\lisem\Desktop\niew4rto\bin\Debug\netcoreapp2.1\Sortowanie.runtimeconfig.json
+C:\Users\lisem\Desktop\niew4rto\bin\Debug\netcoreapp2.1\Sortowanie.runtimeconfig.dev.json
+C:\Users\lisem\Desktop\niew4rto\bin\Debug\netcoreapp2.1\Sortowanie.dll
+C:\Users\lisem\Desktop\niew4rto\bin\Debug\netcoreapp2.1\Sortowanie.pdb
+C:\Users\lisem\Desktop\niew4rto\obj\Debug\netcoreapp2.1\Sortowanie.csprojAssemblyReference.cache
+C:\Users\lisem\Desktop\niew4rto\obj\Debug\netcoreapp2.1\Sortowanie.csproj.CoreCompileInputs.cache
+C:\Users\lisem\Desktop\niew4rto\obj\Debug\netcoreapp2.1\Sortowanie.AssemblyInfoInputs.cache
+C:\Users\lisem\Desktop\niew4rto\obj\Debug\netcoreapp2.1\Sortowanie.AssemblyInfo.cs
+C:\Users\lisem\Desktop\niew4rto\obj\Debug\netcoreapp2.1\Sortowanie.dll
+C:\Users\lisem\Desktop\niew4rto\obj\Debug\netcoreapp2.1\Sortowanie.pdb
+C:\Users\Igoras\Desktop\sortowanie\niew4rto\bin\Debug\netcoreapp2.1\Sortowanie.deps.json
+C:\Users\Igoras\Desktop\sortowanie\niew4rto\bin\Debug\netcoreapp2.1\Sortowanie.runtimeconfig.json
+C:\Users\Igoras\Desktop\sortowanie\niew4rto\bin\Debug\netcoreapp2.1\Sortowanie.runtimeconfig.dev.json
+C:\Users\Igoras\Desktop\sortowanie\niew4rto\bin\Debug\netcoreapp2.1\Sortowanie.dll
+C:\Users\Igoras\Desktop\sortowanie\niew4rto\bin\Debug\netcoreapp2.1\Sortowanie.pdb
+C:\Users\Igoras\Desktop\sortowanie\niew4rto\obj\Debug\netcoreapp2.1\Sortowanie.csprojAssemblyReference.cache
+C:\Users\Igoras\Desktop\sortowanie\niew4rto\obj\Debug\netcoreapp2.1\Sortowanie.csproj.CoreCompileInputs.cache
+C:\Users\Igoras\Desktop\sortowanie\niew4rto\obj\Debug\netcoreapp2.1\Sortowanie.AssemblyInfoInputs.cache
+C:\Users\Igoras\Desktop\sortowanie\niew4rto\obj\Debug\netcoreapp2.1\Sortowanie.AssemblyInfo.cs
+C:\Users\Igoras\Desktop\sortowanie\niew4rto\obj\Debug\netcoreapp2.1\Sortowanie.dll
+C:\Users\Igoras\Desktop\sortowanie\niew4rto\obj\Debug\netcoreapp2.1\Sortowanie.pdb
+C:\Users\Igoras\Desktop\Le Studia\Semestr IV\PAMSI\projekt\PAMSI-Sortowanie\bin\Debug\netcoreapp2.1\Sortowanie.deps.json
+C:\Users\Igoras\Desktop\Le Studia\Semestr IV\PAMSI\projekt\PAMSI-Sortowanie\bin\Debug\netcoreapp2.1\Sortowanie.runtimeconfig.json
+C:\Users\Igoras\Desktop\Le Studia\Semestr IV\PAMSI\projekt\PAMSI-Sortowanie\bin\Debug\netcoreapp2.1\Sortowanie.runtimeconfig.dev.json
+C:\Users\Igoras\Desktop\Le Studia\Semestr IV\PAMSI\projekt\PAMSI-Sortowanie\bin\Debug\netcoreapp2.1\Sortowanie.dll
+C:\Users\Igoras\Desktop\Le Studia\Semestr IV\PAMSI\projekt\PAMSI-Sortowanie\bin\Debug\netcoreapp2.1\Sortowanie.pdb
+C:\Users\Igoras\Desktop\Le Studia\Semestr IV\PAMSI\projekt\PAMSI-Sortowanie\obj\Debug\netcoreapp2.1\Sortowanie.csprojAssemblyReference.cache
+C:\Users\Igoras\Desktop\Le Studia\Semestr IV\PAMSI\projekt\PAMSI-Sortowanie\obj\Debug\netcoreapp2.1\Sortowanie.csproj.CoreCompileInputs.cache
+C:\Users\Igoras\Desktop\Le Studia\Semestr IV\PAMSI\projekt\PAMSI-Sortowanie\obj\Debug\netcoreapp2.1\Sortowanie.AssemblyInfoInputs.cache
+C:\Users\Igoras\Desktop\Le Studia\Semestr IV\PAMSI\projekt\PAMSI-Sortowanie\obj\Debug\netcoreapp2.1\Sortowanie.AssemblyInfo.cs
+C:\Users\Igoras\Desktop\Le Studia\Semestr IV\PAMSI\projekt\PAMSI-Sortowanie\obj\Debug\netcoreapp2.1\Sortowanie.dll
+C:\Users\Igoras\Desktop\Le Studia\Semestr IV\PAMSI\projekt\PAMSI-Sortowanie\obj\Debug\netcoreapp2.1\Sortowanie.pdb
+C:\Users\Igor\Desktop\costam studia\Semestr IV\PAMSI\projekty\Sortowanie\bin\Debug\netcoreapp2.1\Sortowanie.deps.json
+C:\Users\Igor\Desktop\costam studia\Semestr IV\PAMSI\projekty\Sortowanie\bin\Debug\netcoreapp2.1\Sortowanie.runtimeconfig.json
+C:\Users\Igor\Desktop\costam studia\Semestr IV\PAMSI\projekty\Sortowanie\bin\Debug\netcoreapp2.1\Sortowanie.runtimeconfig.dev.json
+C:\Users\Igor\Desktop\costam studia\Semestr IV\PAMSI\projekty\Sortowanie\bin\Debug\netcoreapp2.1\Sortowanie.dll
+C:\Users\Igor\Desktop\costam studia\Semestr IV\PAMSI\projekty\Sortowanie\bin\Debug\netcoreapp2.1\Sortowanie.pdb
+C:\Users\Igor\Desktop\costam studia\Semestr IV\PAMSI\projekty\Sortowanie\obj\Debug\netcoreapp2.1\Sortowanie.csprojAssemblyReference.cache
+C:\Users\Igor\Desktop\costam studia\Semestr IV\PAMSI\projekty\Sortowanie\obj\Debug\netcoreapp2.1\Sortowanie.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\costam studia\Semestr IV\PAMSI\projekty\Sortowanie\obj\Debug\netcoreapp2.1\Sortowanie.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\costam studia\Semestr IV\PAMSI\projekty\Sortowanie\obj\Debug\netcoreapp2.1\Sortowanie.AssemblyInfo.cs
+C:\Users\Igor\Desktop\costam studia\Semestr IV\PAMSI\projekty\Sortowanie\obj\Debug\netcoreapp2.1\Sortowanie.dll
+C:\Users\Igor\Desktop\costam studia\Semestr IV\PAMSI\projekty\Sortowanie\obj\Debug\netcoreapp2.1\Sortowanie.pdb
+C:\Users\Igoras\Desktop\pamsi\Sortowanie\bin\Debug\netcoreapp2.1\Sortowanie.deps.json
+C:\Users\Igoras\Desktop\pamsi\Sortowanie\bin\Debug\netcoreapp2.1\Sortowanie.runtimeconfig.json
+C:\Users\Igoras\Desktop\pamsi\Sortowanie\bin\Debug\netcoreapp2.1\Sortowanie.runtimeconfig.dev.json
+c:\Users\Igoras\Desktop\pamsi\Sortowanie\bin\Debug\netcoreapp2.1\Sortowanie.dll
+c:\Users\Igoras\Desktop\pamsi\Sortowanie\bin\Debug\netcoreapp2.1\Sortowanie.pdb
+c:\Users\Igoras\Desktop\pamsi\Sortowanie\obj\Debug\netcoreapp2.1\Sortowanie.csprojAssemblyReference.cache
+c:\Users\Igoras\Desktop\pamsi\Sortowanie\obj\Debug\netcoreapp2.1\Sortowanie.csproj.CoreCompileInputs.cache
+c:\Users\Igoras\Desktop\pamsi\Sortowanie\obj\Debug\netcoreapp2.1\Sortowanie.AssemblyInfoInputs.cache
+c:\Users\Igoras\Desktop\pamsi\Sortowanie\obj\Debug\netcoreapp2.1\Sortowanie.AssemblyInfo.cs
+c:\Users\Igoras\Desktop\pamsi\Sortowanie\obj\Debug\netcoreapp2.1\Sortowanie.dll
+c:\Users\Igoras\Desktop\pamsi\Sortowanie\obj\Debug\netcoreapp2.1\Sortowanie.pdb

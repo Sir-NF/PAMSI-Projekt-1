@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Igor\\Desktop\\costam studia\\Semestr IV\\PAMSI\\projekty\\Sortowanie\\Sortowanie.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
